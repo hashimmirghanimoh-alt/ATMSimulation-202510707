@@ -5,7 +5,7 @@ public class ATMSimulation {
         Scanner scanner = new Scanner(System.in);
 
         // Predefined PIN and initial balance
-        final int CORRECT_PIN = 1234;
+        final int CORRECT_PIN = 5544;
         final int MAX_ATTEMPTS = 3;
         double balance = 1000.00;
 
